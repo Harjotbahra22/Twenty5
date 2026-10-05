@@ -11,48 +11,27 @@ Nupur Vij
 
 ---
 
-## Candidate Project 1
+Research question:
+Does adding gaze-derived features to forearm EMG improve subject-independent grasp-type classification compared with EMG alone, and does the benefit differ between transradial amputees and able-bodied participants?
 
-### Biomedical Problem
+Dataset: https://dataverse.harvard.edu/dataset.xhtml;jsessionid=e0dd251e22dbb1c85d266008778a?persistentId=doi:10.7910/DVN/1Z3IOM
 
-To be determined. The team is currently exploring potential biomedical problems that could be addressed using data-driven or engineering-based approaches.
 
-### Possible Research Question
+Motivation: 
+Why do people abandon myoelectric prosthetic arms? function, weight, cognitive load? 
 
-To be determined as the team further investigates potential project directions.
+Gaps:
+Although research has been done to improve myoelectric prostheses, the success rate has not been compared based on individual variability such as years since amputation and age. 
 
-### Dataset
+Sources:
+1. Real-Time EMG Based Pattern Recognition Control for Hand Prostheses: A Review on Existing Methods, Challenges and Future Implementation  
 
-The team is currently evaluating potential datasets and their availability, quality, and suitability for the project.
+https://mdpi-res.com/sensors/sensors-19-04596/article_deploy/sensors-19-04596-v2.pdf?version=1571819085
 
-### Biggest Uncertainty
+2. Bio-robotics research for non-invasive myoelectric neural interfaces for upper-limb prosthetic control: a 10-year perspective review 
 
-The main uncertainty is identifying a biomedical problem that is both meaningful and specific enough to investigate within the scope and timeline of the course, while also having an appropriate dataset available.
+https://academic.oup.com/nsr/article/10/5/nwad048/7057876?utm_source=chatgpt.com&login=true 
 
----
+3. Intent Prediction Based on Biomechanical Coordination of EMG and Vision-Filtered Gaze for End-Point Control of an Arm Prosthesis  
 
-## Candidate Project 2
-
-### Biomedical Problem
-
-To be determined. The team is currently considering alternative biomedical problems and evaluating their feasibility.
-
-### Possible Research Question
-
-Still under discussion. The research question will depend on the final biomedical problem and the available data.
-
-### Dataset
-
-Still being considered. The team will evaluate potential datasets based on accessibility, data quality, sample size, and relevance to the research question.
-
-### Biggest Uncertainty
-
-Our biggest uncertainty is currently whether we can find a sufficiently suitable dataset to support a focused and meaningful research question.
-
----
-
-## Current Decision
-
-We are currently exploring both project directions and have not made a final decision yet.
-
-Our next step is to narrow down the biomedical problem, identify potential datasets, and determine which direction can support a clear and feasible research question within the scope of BMEN 600.
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088146  
