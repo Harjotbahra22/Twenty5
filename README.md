@@ -5,7 +5,6 @@
 ## Team Members Present
 
 Harjot,
-Mackenzie Murray,
 Maria Paula,
 Nupur Vij
 
